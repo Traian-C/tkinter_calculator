@@ -1,6 +1,5 @@
 '''GUI Calculator using tkinter'''
 
-import math
 import tkinter as tk
 
 window = tk.Tk()
